@@ -1,0 +1,6 @@
+@Btap1WA_HostAddress = http://localhost:5032
+
+GET {{Btap1WA_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
